@@ -1,0 +1,3 @@
+# Project exclude paths
+/node_modules/
+/release-builds/ImageShrink-win32-ia32/resources/app/node_modules/
